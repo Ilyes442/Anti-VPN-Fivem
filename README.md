@@ -1,2 +1,4 @@
 
 FiveM VPN Blocker
+
+Standalone
